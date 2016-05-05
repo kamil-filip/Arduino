@@ -1,3 +1,0 @@
-// kamil-filip 
-// this repository contains all my Arduino small projects
-// enjoy
